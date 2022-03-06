@@ -1,0 +1,804 @@
+{
+    "tracks": [
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                        "id": "7aRi9OzdA2ciputfuguaPK",
+                        "name": "Larry Carlton",
+                        "type": "artist",
+                        "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5X5BHIsKnBpvIybs83eQ4j"
+                },
+                "href": "https://api.spotify.com/v1/albums/5X5BHIsKnBpvIybs83eQ4j",
+                "id": "5X5BHIsKnBpvIybs83eQ4j",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d1c328f80ee86ad7f306e9e7",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d1c328f80ee86ad7f306e9e7",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d1c328f80ee86ad7f306e9e7",
+                        "width": 64
+                    }
+                ],
+                "name": "Alone / But Never Alone",
+                "release_date": "1986-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 8,
+                "type": "album",
+                "uri": "spotify:album:5X5BHIsKnBpvIybs83eQ4j"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                    "id": "7aRi9OzdA2ciputfuguaPK",
+                    "name": "Larry Carlton",
+                    "type": "artist",
+                    "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 347000,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USMC18519640"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3mbzzlkaNM3ur4nVHAr1dO"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3mbzzlkaNM3ur4nVHAr1dO",
+            "id": "3mbzzlkaNM3ur4nVHAr1dO",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Smiles And Smiles To Go",
+            "popularity": 48,
+            "preview_url": null,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:3mbzzlkaNM3ur4nVHAr1dO"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                        "id": "7aRi9OzdA2ciputfuguaPK",
+                        "name": "Larry Carlton",
+                        "type": "artist",
+                        "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP"
+                },
+                "href": "https://api.spotify.com/v1/albums/3oZCT0SkabiVJuCLxzWqDP",
+                "id": "3oZCT0SkabiVJuCLxzWqDP",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273220b440ccf3100c79c39eabf",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02220b440ccf3100c79c39eabf",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851220b440ccf3100c79c39eabf",
+                        "width": 64
+                    }
+                ],
+                "name": "Sleepwalk",
+                "release_date": "1982",
+                "release_date_precision": "year",
+                "total_tracks": 8,
+                "type": "album",
+                "uri": "spotify:album:3oZCT0SkabiVJuCLxzWqDP"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                    "id": "7aRi9OzdA2ciputfuguaPK",
+                    "name": "Larry Carlton",
+                    "type": "artist",
+                    "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 275226,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USWB10101265"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7mNV6DQo3Pkvw305WQs9XV"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7mNV6DQo3Pkvw305WQs9XV",
+            "id": "7mNV6DQo3Pkvw305WQs9XV",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Sleepwalk",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/1e545749dd057123e0c879a02138228f730bbc7f?cid=8b00db826a894dbd8f444ee62ee02a2b",
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:7mNV6DQo3Pkvw305WQs9XV"
+        },
+        {
+            "album": {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                        "id": "7aRi9OzdA2ciputfuguaPK",
+                        "name": "Larry Carlton",
+                        "type": "artist",
+                        "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2ORv54DTYQxIYALKqApInC"
+                },
+                "href": "https://api.spotify.com/v1/albums/2ORv54DTYQxIYALKqApInC",
+                "id": "2ORv54DTYQxIYALKqApInC",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273083158e7a0b45a47e98223b8",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02083158e7a0b45a47e98223b8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851083158e7a0b45a47e98223b8",
+                        "width": 64
+                    }
+                ],
+                "name": "Greatest Hits Re-Recorded Volume One",
+                "release_date": "2008-06-01",
+                "release_date_precision": "day",
+                "total_tracks": 9,
+                "type": "album",
+                "uri": "spotify:album:2ORv54DTYQxIYALKqApInC"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                    "id": "7aRi9OzdA2ciputfuguaPK",
+                    "name": "Larry Carlton",
+                    "type": "artist",
+                    "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 440093,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USZYW0806072"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3LGRrDmbePCJb4nnkwZSRJ"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3LGRrDmbePCJb4nnkwZSRJ",
+            "id": "3LGRrDmbePCJb4nnkwZSRJ",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Room 335",
+            "popularity": 44,
+            "preview_url": "https://p.scdn.co/mp3-preview/1f1b3809baf3846ca6eff3f221c187dfac3d738f?cid=8b00db826a894dbd8f444ee62ee02a2b",
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:3LGRrDmbePCJb4nnkwZSRJ"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                        "id": "7aRi9OzdA2ciputfuguaPK",
+                        "name": "Larry Carlton",
+                        "type": "artist",
+                        "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7C1CFA2GWGFc51SrvX5Bvy",
+                        "id": "7C1CFA2GWGFc51SrvX5Bvy",
+                        "name": "Robben Ford",
+                        "type": "artist",
+                        "uri": "spotify:artist:7C1CFA2GWGFc51SrvX5Bvy"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4aD1wO7pTpFKphOgaRsFo4"
+                },
+                "href": "https://api.spotify.com/v1/albums/4aD1wO7pTpFKphOgaRsFo4",
+                "id": "4aD1wO7pTpFKphOgaRsFo4",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a6beaacc1c2cc34a3fe5de47",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a6beaacc1c2cc34a3fe5de47",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851a6beaacc1c2cc34a3fe5de47",
+                        "width": 64
+                    }
+                ],
+                "name": "Unplugged",
+                "release_date": "2013-02-19",
+                "release_date_precision": "day",
+                "total_tracks": 8,
+                "type": "album",
+                "uri": "spotify:album:4aD1wO7pTpFKphOgaRsFo4"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                    "id": "7aRi9OzdA2ciputfuguaPK",
+                    "name": "Larry Carlton",
+                    "type": "artist",
+                    "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7C1CFA2GWGFc51SrvX5Bvy",
+                    "id": "7C1CFA2GWGFc51SrvX5Bvy",
+                    "name": "Robben Ford",
+                    "type": "artist",
+                    "uri": "spotify:artist:7C1CFA2GWGFc51SrvX5Bvy"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 535466,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USZYW1310002"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4erhDehVUKqGEDK96FMEYP"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4erhDehVUKqGEDK96FMEYP",
+            "id": "4erhDehVUKqGEDK96FMEYP",
+            "is_local": false,
+            "is_playable": true,
+            "name": "That Road",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/77db0787f4dc7119ab7f77784ada48fbb918f078?cid=8b00db826a894dbd8f444ee62ee02a2b",
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:4erhDehVUKqGEDK96FMEYP"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                        "id": "7aRi9OzdA2ciputfuguaPK",
+                        "name": "Larry Carlton",
+                        "type": "artist",
+                        "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6860zM9w6dmFEc8HVnV6Ih"
+                },
+                "href": "https://api.spotify.com/v1/albums/6860zM9w6dmFEc8HVnV6Ih",
+                "id": "6860zM9w6dmFEc8HVnV6Ih",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c493168bd835e9b8df12f9ad",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c493168bd835e9b8df12f9ad",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851c493168bd835e9b8df12f9ad",
+                        "width": 64
+                    }
+                ],
+                "name": "Session Masters",
+                "release_date": "2015-12-11",
+                "release_date_precision": "day",
+                "total_tracks": 10,
+                "type": "album",
+                "uri": "spotify:album:6860zM9w6dmFEc8HVnV6Ih"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                    "id": "7aRi9OzdA2ciputfuguaPK",
+                    "name": "Larry Carlton",
+                    "type": "artist",
+                    "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 347986,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBKPL1521365"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4naYwJluM8H8dNuwlCB0Qf"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4naYwJluM8H8dNuwlCB0Qf",
+            "id": "4naYwJluM8H8dNuwlCB0Qf",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Sad but True",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/c7a1c41a3c24d6166db3ae2a10eab738c57c2419?cid=8b00db826a894dbd8f444ee62ee02a2b",
+            "track_number": 10,
+            "type": "track",
+            "uri": "spotify:track:4naYwJluM8H8dNuwlCB0Qf"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                        "id": "7aRi9OzdA2ciputfuguaPK",
+                        "name": "Larry Carlton",
+                        "type": "artist",
+                        "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3oZCT0SkabiVJuCLxzWqDP"
+                },
+                "href": "https://api.spotify.com/v1/albums/3oZCT0SkabiVJuCLxzWqDP",
+                "id": "3oZCT0SkabiVJuCLxzWqDP",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273220b440ccf3100c79c39eabf",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02220b440ccf3100c79c39eabf",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851220b440ccf3100c79c39eabf",
+                        "width": 64
+                    }
+                ],
+                "name": "Sleepwalk",
+                "release_date": "1982",
+                "release_date_precision": "year",
+                "total_tracks": 8,
+                "type": "album",
+                "uri": "spotify:album:3oZCT0SkabiVJuCLxzWqDP"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                    "id": "7aRi9OzdA2ciputfuguaPK",
+                    "name": "Larry Carlton",
+                    "type": "artist",
+                    "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 307973,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USWB10101266"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0ARChe6hJuCzyHxGKHEvOw"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0ARChe6hJuCzyHxGKHEvOw",
+            "id": "0ARChe6hJuCzyHxGKHEvOw",
+            "is_local": false,
+            "is_playable": true,
+            "name": "10:00 P.M.",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/cd22aa164dd4caaa9cf912157bd568793494b621?cid=8b00db826a894dbd8f444ee62ee02a2b",
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:0ARChe6hJuCzyHxGKHEvOw"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                        "id": "7aRi9OzdA2ciputfuguaPK",
+                        "name": "Larry Carlton",
+                        "type": "artist",
+                        "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2WoVYRGcT6O45MOpT06QY0"
+                },
+                "href": "https://api.spotify.com/v1/albums/2WoVYRGcT6O45MOpT06QY0",
+                "id": "2WoVYRGcT6O45MOpT06QY0",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f668455cfdefbda7bee2618f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f668455cfdefbda7bee2618f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f668455cfdefbda7bee2618f",
+                        "width": 64
+                    }
+                ],
+                "name": "Fingerprints",
+                "release_date": "2000-03-07",
+                "release_date_precision": "day",
+                "total_tracks": 10,
+                "type": "album",
+                "uri": "spotify:album:2WoVYRGcT6O45MOpT06QY0"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                    "id": "7aRi9OzdA2ciputfuguaPK",
+                    "name": "Larry Carlton",
+                    "type": "artist",
+                    "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 298453,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USWB19902133"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6VJsU4MsRTc2gOK6NcoDQg"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6VJsU4MsRTc2gOK6NcoDQg",
+            "id": "6VJsU4MsRTc2gOK6NcoDQg",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Fingerprints",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/550e707a58bd55640d86aaad6bd928efa1fdd393?cid=8b00db826a894dbd8f444ee62ee02a2b",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:6VJsU4MsRTc2gOK6NcoDQg"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                        "id": "7aRi9OzdA2ciputfuguaPK",
+                        "name": "Larry Carlton",
+                        "type": "artist",
+                        "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/10KJXcTADDXQzmyB65YVuG"
+                },
+                "href": "https://api.spotify.com/v1/albums/10KJXcTADDXQzmyB65YVuG",
+                "id": "10KJXcTADDXQzmyB65YVuG",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b6577f2e896f3c66c38ec947",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b6577f2e896f3c66c38ec947",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b6577f2e896f3c66c38ec947",
+                        "width": 64
+                    }
+                ],
+                "name": "Discovery",
+                "release_date": "1986",
+                "release_date_precision": "year",
+                "total_tracks": 9,
+                "type": "album",
+                "uri": "spotify:album:10KJXcTADDXQzmyB65YVuG"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                    "id": "7aRi9OzdA2ciputfuguaPK",
+                    "name": "Larry Carlton",
+                    "type": "artist",
+                    "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 297266,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USMC18723100"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3XbhujcW0bShoJMfJTov0O"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3XbhujcW0bShoJMfJTov0O",
+            "id": "3XbhujcW0bShoJMfJTov0O",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Minute By Minute",
+            "popularity": 36,
+            "preview_url": null,
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:3XbhujcW0bShoJMfJTov0O"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                        "id": "7aRi9OzdA2ciputfuguaPK",
+                        "name": "Larry Carlton",
+                        "type": "artist",
+                        "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6Z9unss1LNFGe9mpQVGM0X"
+                },
+                "href": "https://api.spotify.com/v1/albums/6Z9unss1LNFGe9mpQVGM0X",
+                "id": "6Z9unss1LNFGe9mpQVGM0X",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27387d401ec9b01d5018db8b4cc",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0287d401ec9b01d5018db8b4cc",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485187d401ec9b01d5018db8b4cc",
+                        "width": 64
+                    }
+                ],
+                "name": "Larry Carlton",
+                "release_date": "1978",
+                "release_date_precision": "year",
+                "total_tracks": 8,
+                "type": "album",
+                "uri": "spotify:album:6Z9unss1LNFGe9mpQVGM0X"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                    "id": "7aRi9OzdA2ciputfuguaPK",
+                    "name": "Larry Carlton",
+                    "type": "artist",
+                    "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 339426,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USWB10804012"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6Jr4qvO1Z79POqmDFRqusV"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6Jr4qvO1Z79POqmDFRqusV",
+            "id": "6Jr4qvO1Z79POqmDFRqusV",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Room 335 - Long Version",
+            "popularity": 35,
+            "preview_url": "https://p.scdn.co/mp3-preview/37c4bce4f3918a64d3c03089b4e04e9b80fd3315?cid=8b00db826a894dbd8f444ee62ee02a2b",
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:6Jr4qvO1Z79POqmDFRqusV"
+        },
+        {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                        "id": "7aRi9OzdA2ciputfuguaPK",
+                        "name": "Larry Carlton",
+                        "type": "artist",
+                        "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7C1CFA2GWGFc51SrvX5Bvy",
+                        "id": "7C1CFA2GWGFc51SrvX5Bvy",
+                        "name": "Robben Ford",
+                        "type": "artist",
+                        "uri": "spotify:artist:7C1CFA2GWGFc51SrvX5Bvy"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4aD1wO7pTpFKphOgaRsFo4"
+                },
+                "href": "https://api.spotify.com/v1/albums/4aD1wO7pTpFKphOgaRsFo4",
+                "id": "4aD1wO7pTpFKphOgaRsFo4",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a6beaacc1c2cc34a3fe5de47",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a6beaacc1c2cc34a3fe5de47",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851a6beaacc1c2cc34a3fe5de47",
+                        "width": 64
+                    }
+                ],
+                "name": "Unplugged",
+                "release_date": "2013-02-19",
+                "release_date_precision": "day",
+                "total_tracks": 8,
+                "type": "album",
+                "uri": "spotify:album:4aD1wO7pTpFKphOgaRsFo4"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7aRi9OzdA2ciputfuguaPK",
+                    "id": "7aRi9OzdA2ciputfuguaPK",
+                    "name": "Larry Carlton",
+                    "type": "artist",
+                    "uri": "spotify:artist:7aRi9OzdA2ciputfuguaPK"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7C1CFA2GWGFc51SrvX5Bvy",
+                    "id": "7C1CFA2GWGFc51SrvX5Bvy",
+                    "name": "Robben Ford",
+                    "type": "artist",
+                    "uri": "spotify:artist:7C1CFA2GWGFc51SrvX5Bvy"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 384640,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USZYW1310007"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6nrsuQ4BILqeK62PigV76j"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6nrsuQ4BILqeK62PigV76j",
+            "id": "6nrsuQ4BILqeK62PigV76j",
+            "is_local": false,
+            "is_playable": true,
+            "name": "I Put a Spell on You",
+            "popularity": 33,
+            "preview_url": "https://p.scdn.co/mp3-preview/d5c05f8b641157979b13842ecbe2c4aeb98623e8?cid=8b00db826a894dbd8f444ee62ee02a2b",
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:6nrsuQ4BILqeK62PigV76j"
+        }
+    ]
+}
